@@ -7,3 +7,7 @@ object pepita {
     energy = energy - minutes * 3
   }
 }
+
+class Pepota {
+  method jijo() = "jijo"
+}
